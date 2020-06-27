@@ -3,6 +3,7 @@ a{
  font-size: 22px;
 }
 body{
+	background-image:center;
 	background-image: url(images/1.jpg);
 }
 #test{
